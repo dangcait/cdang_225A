@@ -1,4 +1,5 @@
-# cdang_225a
+# caitlyn dang
+
  for biostats 225a. my work is organized as follows:
 
 - `code` all scripts used in analysis
